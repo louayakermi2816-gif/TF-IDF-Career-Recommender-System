@@ -1,0 +1,55 @@
+job_role,skills
+Data Scientist,python machine_learning statistics data sql deep_learning visualization
+ML Engineer,python tensorflow pytorch machine_learning deep_learning data docker kubernetes
+Data Analyst,sql data excel statistics visualization reporting python tableau
+Backend Developer,python java api sql backend docker microservices rest
+DevOps Engineer,docker kubernetes aws linux ci_cd devops terraform ansible
+Cloud Architect,aws cloud azure networking infrastructure security terraform
+Frontend Developer,javascript html css react frontend ui ux typescript
+Cybersecurity Analyst,security networking linux firewall encryption penetration_testing
+Database Administrator,sql database mysql postgresql optimization indexing backup
+AI Research Scientist,python machine_learning research mathematics deep_learning algorithms neural_networks
+Full Stack Developer,javascript python html css react nodejs sql api docker
+Data Engineer,python sql spark hadoop data_pipelines etl airflow aws
+Mobile Developer (Android),java kotlin android mobile api firebase ui
+Mobile Developer (iOS),swift ios xcode mobile api firebase ui
+Product Manager,agile scrum product_management analytics communication strategy roadmap
+UX Designer,figma ui ux wireframing prototyping user_research accessibility
+QA Engineer,testing automation selenium quality_assurance ci_cd python java
+Site Reliability Engineer,linux docker kubernetes monitoring logging aws terraform python
+Network Engineer,networking cisco routing switching firewall vpn security
+Systems Administrator,linux windows server networking active_directory backup monitoring
+Blockchain Developer,solidity ethereum smart_contracts web3 javascript cryptography
+Game Developer,unity csharp game_design 3d_modeling physics_engine unreal
+Embedded Systems Engineer,c embedded firmware microcontrollers rtos hardware iot
+Robotics Engineer,python ros machine_learning computer_vision sensors c control_systems
+Computer Vision Engineer,python opencv deep_learning tensorflow image_processing cnn machine_learning
+NLP Engineer,python nlp transformers bert gpt text_processing machine_learning deep_learning
+MLOps Engineer,docker kubernetes mlflow machine_learning ci_cd python aws terraform
+Platform Engineer,kubernetes docker aws terraform ci_cd python infrastructure microservices
+Security Engineer,security penetration_testing encryption networking linux vulnerability_assessment
+Solutions Architect,aws azure cloud architecture design microservices networking security
+Technical Writer,documentation api_documentation markdown writing communication technical_writing
+Business Intelligence Analyst,sql tableau power_bi data visualization reporting analytics
+Scrum Master,agile scrum kanban leadership facilitation project_management
+IT Support Specialist,troubleshooting windows linux networking hardware customer_service
+Cloud Security Engineer,aws security cloud encryption iam compliance networking
+Data Visualization Specialist,tableau power_bi d3 visualization data storytelling python
+Machine Learning Researcher,python machine_learning deep_learning mathematics research neural_networks reinforcement_learning
+ETL Developer,sql python etl data_pipelines airflow spark database
+API Developer,rest api graphql python javascript authentication microservices
+Automation Engineer,python automation scripting ci_cd testing selenium ansible
+Performance Engineer,performance_testing load_testing monitoring optimization java python
+Infrastructure Engineer,terraform aws cloud linux networking docker kubernetes ansible
+Big Data Engineer,spark hadoop hive data_pipelines python sql aws scala
+Firmware Engineer,c embedded firmware microcontrollers debugging hardware assembly
+AR/VR Developer,unity csharp 3d_modeling ar vr spatial_computing unreal
+Chatbot Developer,python nlp machine_learning api chatbot dialog_systems
+IoT Developer,python iot mqtt sensors embedded cloud aws arduino
+Release Manager,ci_cd deployment git automation release_management agile
+Penetration Tester,penetration_testing security linux networking kali vulnerability_assessment scripting
+WordPress Developer,wordpress php html css javascript mysql web_design
+Salesforce Developer,salesforce apex soql crm cloud lightning
+SAP Consultant,sap erp abap business_processes configuration analytics
+Power Platform Developer,power_apps power_automate power_bi microsoft sharepoint automation
+Mainframe Developer,cobol jcl mainframe db2 cics legacy_systems
