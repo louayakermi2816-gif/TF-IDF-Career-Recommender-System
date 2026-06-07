@@ -19,8 +19,8 @@ This project represents the third milestone of an Industrial Training Kit. It de
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-   cd REPO_NAME
+   git clone https://github.com/louayakermi2816-gif/TF-IDF-Career-Recommender-System.git
+   cd TF-IDF-Career-Recommender-System
    ```
 2. Create a virtual environment and install dependencies:
    ```bash
